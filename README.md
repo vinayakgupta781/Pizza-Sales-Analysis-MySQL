@@ -44,7 +44,7 @@ This project explores a pizza sales dataset using SQL queries in **MySQL Workben
 
 ---
 
-## 🛠️ Tools Used
+## 🛠Tools Used
 
 - **MySQL Workbench** – Querying and exploring relational data
 - **SQL** – Joins, Aggregations, Subqueries, Date/Time functions
